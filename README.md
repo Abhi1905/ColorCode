@@ -1,6 +1,6 @@
 # ColorCode
 
-_Description_
+_Description_.
     This project allows users to change the color of a page by one click. It also automatically copies the hexadecimal code of the color, making it easy for users to use       the color in their websites.
 
 _Instructions_
