@@ -1,4 +1,4 @@
-# ColorCode
+# [ColorCode](https://abhi1905.github.io/ColorCode/)
 
 _Description_.
     This project allows users to change the color of a page by one click. It also automatically copies the hexadecimal code of the color, making it easy for users to use       the color in their websites.
